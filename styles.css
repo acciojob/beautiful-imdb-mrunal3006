@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body{
+	background-color: darkgray;
+}
+.moviePic{
+	        height: 300px; /* Set the desired height */
+            width: 200px; /* Set the desired width */
+            opacity: 0.9; /* Adjust opacity as desired */
+            margin: 20px auto; /* Center the image horizontally */
+            display: block;
+	
+}
+.movieDetail{
+	        
+            top: 50%;
+            width: 70%; /* Set the desired width */
+            margin: 0 auto; /* Center the description horizontally */
+            text-align: center;
+            font-size: 18px; /* Set the desired font size */
+          color: red;
+}
